@@ -6,9 +6,9 @@ public class JDBCDemo {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/students";
         String user = "root";
-        String password = "your_password"; // sorry i cant show my password
+        String password = "shankar322@322";
 
-        int rollno = 2;
+        int rollno = 6;
         String name = "Shankar";
         int age = 22;
 
